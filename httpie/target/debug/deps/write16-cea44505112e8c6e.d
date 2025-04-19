@@ -1,7 +1,0 @@
-/Users/huchen/Projects/RustLearning/rust-absorption/httpie/target/debug/deps/libwrite16-cea44505112e8c6e.rmeta: /Users/huchen/.cargo/registry/src/mirrors.ustc.edu.cn-04b7754156161b43/write16-1.0.0/src/lib.rs
-
-/Users/huchen/Projects/RustLearning/rust-absorption/httpie/target/debug/deps/libwrite16-cea44505112e8c6e.rlib: /Users/huchen/.cargo/registry/src/mirrors.ustc.edu.cn-04b7754156161b43/write16-1.0.0/src/lib.rs
-
-/Users/huchen/Projects/RustLearning/rust-absorption/httpie/target/debug/deps/write16-cea44505112e8c6e.d: /Users/huchen/.cargo/registry/src/mirrors.ustc.edu.cn-04b7754156161b43/write16-1.0.0/src/lib.rs
-
-/Users/huchen/.cargo/registry/src/mirrors.ustc.edu.cn-04b7754156161b43/write16-1.0.0/src/lib.rs:
