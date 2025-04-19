@@ -1,5 +1,5 @@
 # Rust build artifacts
-/target/
+target/
 Cargo.lock
 # Remove the line above if your project is an executable (not a library)
 
