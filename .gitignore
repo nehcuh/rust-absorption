@@ -1,0 +1,45 @@
+# Rust build artifacts
+/target/
+Cargo.lock
+# Remove the line above if your project is an executable (not a library)
+
+# IDE and editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Debug artifacts
+*.pdb
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Backup files
+*.bak
+*.backup
+*.old
+
+# Generated files
+.rustc_info.json
+
+# macOS specific files
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Linux specific files
+.directory
+.Trash-*
+
