@@ -1,0 +1,11 @@
+/Users/huchen/Projects/RustLearning/rust-absorption/httpie/target/debug/deps/libsocket2-12fc4bafe0de5290.rmeta: /Users/huchen/.cargo/registry/src/mirrors.ustc.edu.cn-04b7754156161b43/socket2-0.5.9/src/lib.rs /Users/huchen/.cargo/registry/src/mirrors.ustc.edu.cn-04b7754156161b43/socket2-0.5.9/src/sockaddr.rs /Users/huchen/.cargo/registry/src/mirrors.ustc.edu.cn-04b7754156161b43/socket2-0.5.9/src/socket.rs /Users/huchen/.cargo/registry/src/mirrors.ustc.edu.cn-04b7754156161b43/socket2-0.5.9/src/sockref.rs /Users/huchen/.cargo/registry/src/mirrors.ustc.edu.cn-04b7754156161b43/socket2-0.5.9/src/sys/unix.rs
+
+/Users/huchen/Projects/RustLearning/rust-absorption/httpie/target/debug/deps/libsocket2-12fc4bafe0de5290.rlib: /Users/huchen/.cargo/registry/src/mirrors.ustc.edu.cn-04b7754156161b43/socket2-0.5.9/src/lib.rs /Users/huchen/.cargo/registry/src/mirrors.ustc.edu.cn-04b7754156161b43/socket2-0.5.9/src/sockaddr.rs /Users/huchen/.cargo/registry/src/mirrors.ustc.edu.cn-04b7754156161b43/socket2-0.5.9/src/socket.rs /Users/huchen/.cargo/registry/src/mirrors.ustc.edu.cn-04b7754156161b43/socket2-0.5.9/src/sockref.rs /Users/huchen/.cargo/registry/src/mirrors.ustc.edu.cn-04b7754156161b43/socket2-0.5.9/src/sys/unix.rs
+
+/Users/huchen/Projects/RustLearning/rust-absorption/httpie/target/debug/deps/socket2-12fc4bafe0de5290.d: /Users/huchen/.cargo/registry/src/mirrors.ustc.edu.cn-04b7754156161b43/socket2-0.5.9/src/lib.rs /Users/huchen/.cargo/registry/src/mirrors.ustc.edu.cn-04b7754156161b43/socket2-0.5.9/src/sockaddr.rs /Users/huchen/.cargo/registry/src/mirrors.ustc.edu.cn-04b7754156161b43/socket2-0.5.9/src/socket.rs /Users/huchen/.cargo/registry/src/mirrors.ustc.edu.cn-04b7754156161b43/socket2-0.5.9/src/sockref.rs /Users/huchen/.cargo/registry/src/mirrors.ustc.edu.cn-04b7754156161b43/socket2-0.5.9/src/sys/unix.rs
+
+/Users/huchen/.cargo/registry/src/mirrors.ustc.edu.cn-04b7754156161b43/socket2-0.5.9/src/lib.rs:
+/Users/huchen/.cargo/registry/src/mirrors.ustc.edu.cn-04b7754156161b43/socket2-0.5.9/src/sockaddr.rs:
+/Users/huchen/.cargo/registry/src/mirrors.ustc.edu.cn-04b7754156161b43/socket2-0.5.9/src/socket.rs:
+/Users/huchen/.cargo/registry/src/mirrors.ustc.edu.cn-04b7754156161b43/socket2-0.5.9/src/sockref.rs:
+/Users/huchen/.cargo/registry/src/mirrors.ustc.edu.cn-04b7754156161b43/socket2-0.5.9/src/sys/unix.rs:

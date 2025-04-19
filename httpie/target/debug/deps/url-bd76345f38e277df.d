@@ -1,0 +1,11 @@
+/Users/huchen/Projects/RustLearning/rust-absorption/httpie/target/debug/deps/liburl-bd76345f38e277df.rmeta: /Users/huchen/.cargo/registry/src/mirrors.ustc.edu.cn-04b7754156161b43/url-2.5.4/src/lib.rs /Users/huchen/.cargo/registry/src/mirrors.ustc.edu.cn-04b7754156161b43/url-2.5.4/src/host.rs /Users/huchen/.cargo/registry/src/mirrors.ustc.edu.cn-04b7754156161b43/url-2.5.4/src/origin.rs /Users/huchen/.cargo/registry/src/mirrors.ustc.edu.cn-04b7754156161b43/url-2.5.4/src/parser.rs /Users/huchen/.cargo/registry/src/mirrors.ustc.edu.cn-04b7754156161b43/url-2.5.4/src/path_segments.rs /Users/huchen/.cargo/registry/src/mirrors.ustc.edu.cn-04b7754156161b43/url-2.5.4/src/slicing.rs /Users/huchen/.cargo/registry/src/mirrors.ustc.edu.cn-04b7754156161b43/url-2.5.4/src/quirks.rs
+
+/Users/huchen/Projects/RustLearning/rust-absorption/httpie/target/debug/deps/url-bd76345f38e277df.d: /Users/huchen/.cargo/registry/src/mirrors.ustc.edu.cn-04b7754156161b43/url-2.5.4/src/lib.rs /Users/huchen/.cargo/registry/src/mirrors.ustc.edu.cn-04b7754156161b43/url-2.5.4/src/host.rs /Users/huchen/.cargo/registry/src/mirrors.ustc.edu.cn-04b7754156161b43/url-2.5.4/src/origin.rs /Users/huchen/.cargo/registry/src/mirrors.ustc.edu.cn-04b7754156161b43/url-2.5.4/src/parser.rs /Users/huchen/.cargo/registry/src/mirrors.ustc.edu.cn-04b7754156161b43/url-2.5.4/src/path_segments.rs /Users/huchen/.cargo/registry/src/mirrors.ustc.edu.cn-04b7754156161b43/url-2.5.4/src/slicing.rs /Users/huchen/.cargo/registry/src/mirrors.ustc.edu.cn-04b7754156161b43/url-2.5.4/src/quirks.rs
+
+/Users/huchen/.cargo/registry/src/mirrors.ustc.edu.cn-04b7754156161b43/url-2.5.4/src/lib.rs:
+/Users/huchen/.cargo/registry/src/mirrors.ustc.edu.cn-04b7754156161b43/url-2.5.4/src/host.rs:
+/Users/huchen/.cargo/registry/src/mirrors.ustc.edu.cn-04b7754156161b43/url-2.5.4/src/origin.rs:
+/Users/huchen/.cargo/registry/src/mirrors.ustc.edu.cn-04b7754156161b43/url-2.5.4/src/parser.rs:
+/Users/huchen/.cargo/registry/src/mirrors.ustc.edu.cn-04b7754156161b43/url-2.5.4/src/path_segments.rs:
+/Users/huchen/.cargo/registry/src/mirrors.ustc.edu.cn-04b7754156161b43/url-2.5.4/src/slicing.rs:
+/Users/huchen/.cargo/registry/src/mirrors.ustc.edu.cn-04b7754156161b43/url-2.5.4/src/quirks.rs:

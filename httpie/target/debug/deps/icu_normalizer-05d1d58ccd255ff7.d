@@ -1,0 +1,9 @@
+/Users/huchen/Projects/RustLearning/rust-absorption/httpie/target/debug/deps/libicu_normalizer-05d1d58ccd255ff7.rmeta: /Users/huchen/.cargo/registry/src/mirrors.ustc.edu.cn-04b7754156161b43/icu_normalizer-1.5.0/src/lib.rs /Users/huchen/.cargo/registry/src/mirrors.ustc.edu.cn-04b7754156161b43/icu_normalizer-1.5.0/src/error.rs /Users/huchen/.cargo/registry/src/mirrors.ustc.edu.cn-04b7754156161b43/icu_normalizer-1.5.0/src/properties.rs /Users/huchen/.cargo/registry/src/mirrors.ustc.edu.cn-04b7754156161b43/icu_normalizer-1.5.0/src/provider.rs /Users/huchen/.cargo/registry/src/mirrors.ustc.edu.cn-04b7754156161b43/icu_normalizer-1.5.0/src/uts46.rs
+
+/Users/huchen/Projects/RustLearning/rust-absorption/httpie/target/debug/deps/icu_normalizer-05d1d58ccd255ff7.d: /Users/huchen/.cargo/registry/src/mirrors.ustc.edu.cn-04b7754156161b43/icu_normalizer-1.5.0/src/lib.rs /Users/huchen/.cargo/registry/src/mirrors.ustc.edu.cn-04b7754156161b43/icu_normalizer-1.5.0/src/error.rs /Users/huchen/.cargo/registry/src/mirrors.ustc.edu.cn-04b7754156161b43/icu_normalizer-1.5.0/src/properties.rs /Users/huchen/.cargo/registry/src/mirrors.ustc.edu.cn-04b7754156161b43/icu_normalizer-1.5.0/src/provider.rs /Users/huchen/.cargo/registry/src/mirrors.ustc.edu.cn-04b7754156161b43/icu_normalizer-1.5.0/src/uts46.rs
+
+/Users/huchen/.cargo/registry/src/mirrors.ustc.edu.cn-04b7754156161b43/icu_normalizer-1.5.0/src/lib.rs:
+/Users/huchen/.cargo/registry/src/mirrors.ustc.edu.cn-04b7754156161b43/icu_normalizer-1.5.0/src/error.rs:
+/Users/huchen/.cargo/registry/src/mirrors.ustc.edu.cn-04b7754156161b43/icu_normalizer-1.5.0/src/properties.rs:
+/Users/huchen/.cargo/registry/src/mirrors.ustc.edu.cn-04b7754156161b43/icu_normalizer-1.5.0/src/provider.rs:
+/Users/huchen/.cargo/registry/src/mirrors.ustc.edu.cn-04b7754156161b43/icu_normalizer-1.5.0/src/uts46.rs:
